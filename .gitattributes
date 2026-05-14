@@ -1,1 +1,27 @@
 * text eol=lf
+
+*.css      text
+*.html     text
+*.js       text
+*.svg      text
+*.php      text
+*.shtml    text
+*.svg      text
+*.txt      text
+*.xml      text
+*.xsl      text
+
+*.afdesign binary
+*.afphoto  binary
+*.ai       binary
+*.gif      binary
+.ico       binary
+*.jpg      binary
+*.jpeg     binary
+*.png      binary
+*.mp3      binary
+*.mp4      binary
+*.pdf      binary
+*.swf      binary
+*.woff     binary
+*.zip      binary
